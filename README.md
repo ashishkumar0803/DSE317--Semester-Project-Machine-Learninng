@@ -1,7 +1,6 @@
-# DSE317--Semester-Project-Machine-Learninng
-DSE317 -- Semester Project: Machine Learning
+# DSE317--Semester-Project-Machine-Learning
 
-**Identification of Exoplanet Orbitals Data Analysis**
+**Identification of Exoplanet Orbitals**
 
 **Project Overview**
 
