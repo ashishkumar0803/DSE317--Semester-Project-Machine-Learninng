@@ -31,4 +31,4 @@ Various machine learning algorithms were explored to achieve the desired regress
 
 The identification of exoplanet transit drops is a critical aspect of exoplanet detection. This project successfully applied machine learning techniques to analyze Kepler Mission data, with KNN performing best for regression tasks.
 
-**[_DATASET LINK_](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PS) **
+[**_DATASET LINK_**](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PS) 
