@@ -9,27 +9,27 @@ This project focuses on identifying periodic drops in the light intensity of a s
 
 -->Dataset Details
 
--->Target Variable Range: (-5095, 7506)
+~Target Variable Range: (-5095, 7506)
 
 -->Target Variable Statistics:
 
-Average: 1.606558
+~Average: 1.606558
 
-Median: 0.0832
+~Median: 0.0832
 
-Mode: 0
+~Mode: 0
 
 -->Number of Instances:
 
-Training Data: 17,971
+~Training Data: 17,971
 
-Test Data: 1,998
+~Test Data: 1,998
 
 -->Number of Features:
 
-Training Data: 253
+~Training Data: 253
 
-Test Data: 253
+~Test Data: 253
 
 -->Machine Learning Approach
 
